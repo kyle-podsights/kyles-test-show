@@ -7,15 +7,13 @@
         <pubDate>Mon, 06 Feb 2023 10:00:00 EDT</pubDate>
         <lastBuildDate>Mon, 06 Feb 2023 10:00:00 EDT</lastBuildDate>
         <docs>https://kyle-podsights.github.io/kyles-balloon-store/</docs>
-        <generator>Weblog Editor 2.0</generator>
-        <managingEditor>editor@example.com</managingEditor>
-        <webMaster>webmaster@example.com</webMaster>
+        <generator>https://kyle-podsights.github.io/kyles-balloon-store/</generator>
         <item>
         <title>Episode 1: Let's launch this store</title>
             <link>https://github.com/kyle-podsights/kyles-test-show/blob/main/episodes/episode1.mp3?raw=true</link>
             <description>What is so special about Kyle's Balloon Store?</description>
             <pubDate>Fri, 10 Feb 2023 10:00:00 EDT</pubDate>
-            <guid>f7c85e93-b291-4048-a309-0dc74b335606</guid>
+            <guid isPermaLink="false">f7c85e93-b291-4048-a309-0dc74b335606</guid>
         </item>
     </channel>
 </rss>
