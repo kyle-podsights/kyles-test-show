@@ -1,0 +1,21 @@
+<rss version="2.0">
+    <channel>
+        <title>Kyle's Balloon Store</title>
+        <link>https://kyle-podsights.github.io/kyles-balloon-store/</link>
+        <description>Kyle's one-stop shop for all your balloon needs</description>
+        <language>en-us</language>
+        <pubDate>Mon, 06 Feb 2023 10:00:00 EDT</pubDate>
+        <lastBuildDate>Mon, 06 Feb 2023 10:00:00 EDT</lastBuildDate>
+        <docs>https://kyle-podsights.github.io/kyles-balloon-store/</docs>
+        <generator>Weblog Editor 2.0</generator>
+        <managingEditor>editor@example.com</managingEditor>
+        <webMaster>webmaster@example.com</webMaster>
+        <item>
+        <title>Star City</title>
+            <link>http://liftoff.msfc.nasa.gov/news/2003/news-starcity.asp</link>
+            <description>What is so special about Kyle's Balloon Store?</description>
+            <pubDate>Fri, 10 Feb 2023 10:00:00 EDT</pubDate>
+            <guid>http://liftoff.msfc.nasa.gov/2003/06/03.html#item573</guid>
+        </item>
+    </channel>
+</rss>
