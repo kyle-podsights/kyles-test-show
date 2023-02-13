@@ -3,17 +3,19 @@
         <title>Kyle's Balloon Store</title>
         <link>https://kyle-podsights.github.io/kyles-balloon-store/</link>
         <description>Kyle's one-stop shop for all your balloon needs</description>
-        <language>en-us</language>
-        <pubDate>Mon, 06 Feb 2023 10:00:00 EDT</pubDate>
-        <lastBuildDate>Mon, 06 Feb 2023 10:00:00 EDT</lastBuildDate>
+        <language>en-US</language>
         <docs>https://kyle-podsights.github.io/kyles-balloon-store/</docs>
-        <generator>https://kyle-podsights.github.io/kyles-balloon-store/</generator>
+        <image>
+            <url>https://raw.githubusercontent.com/kyle-podsights/kyles-test-show/main/images/balloon1.png</url>
+            <title>Kyle's Balloon Store</title>
+        </image>
         <item>
-        <title>Episode 1: Let's launch this store</title>
-            <link>https://github.com/kyle-podsights/kyles-test-show/blob/main/episodes/episode1.mp3?raw=true</link>
+            <title>Episode 1: Let's launch this store</title>
+            <link>https://github.com/kyle-podsights/kyles-test-show</link>
             <description>What is so special about Kyle's Balloon Store?</description>
             <pubDate>Fri, 10 Feb 2023 10:00:00 EDT</pubDate>
             <guid isPermaLink="false">f7c85e93-b291-4048-a309-0dc74b335606</guid>
+            <enclosure url="https://github.com/kyle-podsights/kyles-test-show/blob/main/episodes/episode1.mp3?raw=true" />
         </item>
     </channel>
 </rss>
