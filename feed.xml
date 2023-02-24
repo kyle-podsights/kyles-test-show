@@ -2,6 +2,7 @@
     <channel>
         <title>Kyle's Balloon Store</title>
         <link>https://kyle-podsights.github.io/kyles-balloon-store/</link>
+        <atom:link href="https://kyle-podsights.github.io/kyles-test-show/feed.xml" rel="self" type="application/rss+xml" />
         <description>Kyle's one-stop shop for all your balloon needs</description>
         <language>en-US</language>
         <docs>https://kyle-podsights.github.io/kyles-balloon-store/</docs>
