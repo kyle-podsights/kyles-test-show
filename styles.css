@@ -1,0 +1,35 @@
+.home-title {
+    margin-top: 4ch;
+    text-align: center;
+}
+
+.btn-note {
+    text-align: center;
+}
+
+.home-button {
+    width: 50%;
+    align-self: center;
+}
+
+.store-form {
+    width: 50%;
+    align-self: center;
+}
+
+.navbar-button {
+    margin-left: 1ch;
+}
+
+.debug-icon {
+    background: url("images/bug.svg");
+    height: 16px;
+    width: 32px;
+    display: block;
+    background-repeat: no-repeat;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    justify-self: center;
+    /* Other styles here */
+}
