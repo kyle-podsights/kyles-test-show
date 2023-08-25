@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <link>https://kyle-podsights.github.io/kyles-test-show/index.html</link>
+        <atom:link href="https://kyle-podsights.github.io/kyles-test-show/feed.xml" rel="self" type="application/rss+xml" />
+        <description>Kyles one-stop shop for all your balloon needs</description>
+        <language>en-US</language>
+        <docs>https://kyle-podsights.github.io/kyles-balloon-store/</docs>
+        <image>
+            <url>https://raw.githubusercontent.com/kyle-podsights/kyles-test-show/main/images/balloon1.png</url>
+            <title>Kyle's Balloon Store</title>
+            <link>https://github.com/kyle-podsights/kyles-test-show</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Kyles Balloon Store</itunes:name>
+            <itunes:email>khendricks+kylesballoonstore@spotify.com</itunes:email>
+        </itunes:owner>
+        <item>
+            <title>Episode 1: Let's launch this store</title>
+            <link>https://kyle-podsights.github.io/kyles-test-show/index.html</link>
+            <description>What is so special about Kyles Balloon Store?</description>
+            <pubDate>Fri, 10 Feb 2023 10:00:00 EDT</pubDate>
+            <guid isPermaLink="false">f7c85e93-b291-4048-a309-0dc74b335606</guid>
+            <enclosure url="https://pdst.fm/e/https://kyle-podsights.github.io/kyles-test-show/episodes/episode1.mp3" length="336223" type="audio/mpeg" />
+        </item>
+    </channel>
+</rss>
