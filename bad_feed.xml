@@ -7,7 +7,6 @@
         <docs>https://kyle-podsights.github.io/kyles-balloon-store/</docs>
         <image>
             <url>https://raw.githubusercontent.com/kyle-podsights/kyles-test-show/main/images/balloon1.png</url>
-            <title>Kyle's Balloon Store</title>
             <link>https://github.com/kyle-podsights/kyles-test-show</link>
         </image>
         <itunes:owner>
@@ -15,7 +14,6 @@
             <itunes:email>khendricks+kylesballoonstore@spotify.com</itunes:email>
         </itunes:owner>
         <item>
-            <title>Episode 1: Let's launch this store</title>
             <link>https://kyle-podsights.github.io/kyles-test-show/index.html</link>
             <description>What is so special about Kyles Balloon Store?</description>
             <pubDate>Fri, 10 Feb 2023 10:00:00 EDT</pubDate>
